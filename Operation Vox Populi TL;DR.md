@@ -1,3 +1,5 @@
+# Operation Vox Populi TL;DR
+
 * Write boycott emails to Vox Media's advertisers. See: http://theralphretort.com/operationvoxpopuli-advertiser-list/ and http://pastebin.com/CiJ09wg9
 * Do not use the words GamerGate or #GamerGate anywhere in the emails.
 * Mention that Vox Media properties (Vox, Polygon, The Verge) have spoken insultingly and hatefully against gamers, their core demographic. You can cite some or all of the articles here: http://git.io/AAdEWw
