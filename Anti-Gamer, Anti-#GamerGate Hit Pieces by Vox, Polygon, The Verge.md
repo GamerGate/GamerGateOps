@@ -1,4 +1,4 @@
-#Gamer/#GamerGate Hit Pieces by Vox, Polygon, The Verge
+# Anti-Gamer, Anti-#GamerGate Hit Pieces by Vox, Polygon, The Verge
 
 ## Polygon:
   
