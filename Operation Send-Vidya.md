@@ -32,31 +32,36 @@ The worst offenders, which you should encourage Nvidia to pull ads from and/or n
 Leigh Alexander  
 Gamasutra  
 Aug 28, 10:00am  
-http://archive.today/l1kTW  
+**Direct Link:** http://gamasutra.com/view/news/224400/Gamers_dont_have_to_be_your_audience_Gamers_are_over.php  
+**Archive Link:** http://archive.today/l1kTW  
 
 An awful week to care about video games  
 Chris Plante  
 Polygon  
 Aug 28, 1:21pm  
-http://archive.today/rkvO8  
+**Direct Link:** http://www.polygon.com/2014/8/28/6078391/video-games-awful-week  
+**Archive Link:** http://archive.today/rkvO8  
 
 The death of the “gamers” and the women who “killed” them  
 Casey Johnson  
 Ars Technica  
 Aug 28, 5:00pm  
-https://archive.today/ZyLdw  
+**Direct Link:** http://arstechnica.com/gaming/2014/08/the-death-of-the-gamers-and-the-women-who-killed-them/  
+**Archive Link:** https://archive.today/ZyLdw  
 
 A Guide to Ending "Gamers"  
 Devin Wilson  
 Gamasutra  
 Aug 28, 7:57 pm  
-http://archive.today/2t93l  
+**Direct Link:** http://gamasutra.com/blogs/DevinWilson/20140828/224450/A_Guide_to_Ending_quotGamersquot.php  
+**Archive Link:** http://archive.today/2t93l  
 
 We Might Be Witnessing The 'Death of An Identity'  
 Luke Plunkett  
 Kotaku  
 Aug 28, 8:00pm   
-https://archive.today/ht088  
+**Direct Link:** http://kotaku.com/we-might-be-witnessing-the-death-of-an-identity-1628203079  
+**Archive Link:** https://archive.today/ht088  
 
 More Anti-Gamer Pieces: http://git.io/AAdEWw
 
