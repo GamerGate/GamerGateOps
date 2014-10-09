@@ -1,7 +1,7 @@
 # Complaint Letter Template & Sample Letters
 
 ## Complaint Letter Template:
-* Open with "Dear <name, last name>," or "Dear <Mr./Ms. last name>," optionally followed by their position and company name. If no such information is available, open with "To Whom it may concern,".
+* Open with "Dear \<name, last name\>," or "Dear \<Mr./Ms. last name\>," optionally followed by their position and company name. If no such information is available, open with "To Whom it may concern,".
 * Apologize if the email has been sent to the wrong address, and ask to have it redirected to the right one if so.
 * Note that you have some serious concerns about the site(s) they’re advertising on.
 * State how you ran into the article(s) in question, how you felt when you read them, and how they insult, attack, and/or offend you, given your background, tastes, and values.
