@@ -20,13 +20,13 @@ The worst offenders, which you should encourage Nvidia to pull ads from and/or n
 * [Gameranx](http://www.gameranx.com/)
 * [Ars Technica](http://arstechnica.com/)
 
-**Email Addresses:**
+## Email Addresses:
 
 * mlim@nvidia.com - Micheal Lim, Industry Analyst Relations
 * rsherbin@nvidia.com - Bob Sherbin, Corp. Communications Lead
 * bdelrizzo@nvidia.com - Byran Del Rizzo, GeForce & Consumer Desktop Products
 
-**Anti-Gamer Pieces:**
+## Anti-Gamer Pieces:
 
 'Gamers' don't have to be your audience. 'Gamers' are over. Exclusive    
 Leigh Alexander  
@@ -63,6 +63,8 @@ Aug 28, 8:00pm
 **Direct Link:** http://kotaku.com/we-might-be-witnessing-the-death-of-an-identity-1628203079  
 **Archive Link:** https://archive.today/ht088  
 
-More Anti-Gamer Pieces: http://git.io/AAdEWw
+## More Anti-Gamer Pieces:
+* http://git.io/AAdEWw
 
-Complaint Letter Template & Sample Letters: http://git.io/ykH3Iw
+## Complaint Letter Template & Sample Letters:
+* http://git.io/ykH3Iw
